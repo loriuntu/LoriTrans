@@ -1,4 +1,4 @@
 LoriTrans
 =========
 
-Android's litle translate application using yandex api
+Android's little translate application using yandex api
